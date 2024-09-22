@@ -597,6 +597,9 @@ footer {
     display: block;
     align-items: center;
   }
+  .footer-menu{
+    display: flex;
+  }
   
  
 } 
